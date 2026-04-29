@@ -42,12 +42,12 @@ If you are working in Google Colab:
 
 | Role | Name | GitHub Username |
 |---|---|---|
-| Team Lead & Visualization | Bulbul Agarwalla | bulbul.agarwalla |
-| Data Engineer / Analyst | Shourya Pratap | shouryapratap |
-| Data Engineer / Analyst | Varun Udata | github-handle |
-| Analyst / Visualization | Nishant Sharma | github-handle |
-| Data Engineer / Analyst | Anant Lalwani | github-handle |
-| Analyst | Parul | github-handle |
+| Team Lead & Visualization | Bulbul Agarwalla |Twinklingstar374 |
+| Data Engineer / Analyst | Shourya Pratap | shouryapratap132006 |
+|Report and ppt | Varun Udata |varunudata |
+| Statistical / Visualization | Nishant Sharma | nishantvatssharma4115 |
+| Data Engineer / Analyst | Anant Lalwani | afk-anant |
+| Analyst | Parul | parul-nehra |
 
 *(Roles approximated based on the contribution matrix)*
 
@@ -66,7 +66,7 @@ This analysis serves Chief Revenue Officers, Chief Marketing Officers, and Opera
 | Attribute | Details |
 |---|---|
 | **Source Name** | `new_retail_data_2.csv` |
-| **Direct Access Link** | To be filled by team |
+| **Direct Access Link** |https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset |
 | **Row Count** | 302,010 transactions |
 | **Column Count** | 30+ (25 original + 9 engineered) |
 | **Time Period Covered** | Full calendar year (Jan-Dec) |
@@ -201,13 +201,13 @@ The project follows a structured 7-step workflow:
 **GitHub Repository**
 - [x] Public repository created with the correct naming convention (`SectionB_G3_RetailAnalytics`)
 - [x] All notebooks committed in `.ipynb` format
-- [ ] `data/raw/` contains the original, unedited dataset
-- [ ] `data/processed/` contains the cleaned pipeline output
-- [ ] `tableau/screenshots/` contains dashboard screenshots
+- [x]`data/raw/` contains the original, unedited dataset
+- [x] `data/processed/` contains the cleaned pipeline output
+- [x] `tableau/screenshots/` contains dashboard screenshots
 - [x] `tableau/dashboard_links.md` contains the Tableau Public URL
 - [x] `docs/data_dictionary.md` is complete
 - [x] `README.md` explains the project, dataset, and team
-- [ ] All members have visible commits and pull requests
+- [x] All members have visible commits and pull requests
 
 **Tableau Dashboard**
 - [x] Published on Tableau Public and accessible via public URL
@@ -215,22 +215,22 @@ The project follows a structured 7-step workflow:
 - [x] Dashboard directly addresses the business problem
 
 **Project Report**
-- [ ] Final report exported as PDF into `reports/`
-- [ ] Cover page, executive summary, sector context, problem statement
-- [ ] Data description, cleaning methodology, KPI framework
-- [ ] EDA with written insights, statistical analysis results
-- [ ] Dashboard screenshots and explanation
-- [ ] 8-12 key insights in decision language
-- [ ] 3-5 actionable recommendations with impact estimates
-- [ ] Contribution matrix matches GitHub history
+- [x] Final report exported as PDF into `reports/`
+- [x] Cover page, executive summary, sector context, problem statement
+- [x] Data description, cleaning methodology, KPI framework
+- [x] EDA with written insights, statistical analysis results
+- [x] Dashboard screenshots and explanation
+- [x] 8-12 key insights in decision language
+- [x] 3-5 actionable recommendations with impact estimates
+- [x] Contribution matrix matches GitHub history
 
 **Presentation Deck**
-- [ ] Final presentation exported as PDF into `reports/`
-- [ ] Title slide through recommendations, impact, limitations, and next steps
+- [x] Final presentation exported as PDF into `reports/`
+- [x] Title slide through recommendations, impact, limitations, and next steps
 
 **Individual Assets**
-- [ ] DVA-oriented resume updated to include this capstone
-- [ ] Portfolio link or project case study added
+- [x] DVA-oriented resume updated to include this capstone
+- [x] Portfolio link or project case study added
 
 ## Contribution Matrix
 
