@@ -3,14 +3,6 @@
 **Newton School of Technology | Data Visualization & Analytics**  
 A 2-week industry simulation capstone using Python, GitHub, and Tableau to convert raw data into actionable business intelligence.
 
-## Before You Start
-- [x] Rename the repository using the format `SectionName_TeamID_ProjectName`.
-- [x] Fill in the project details and team table below.
-- [x] Add the raw dataset to `data/raw/`.
-- [x] Complete the notebooks in order from 01 to 05.
-- [x] Publish the final dashboard and add the public link in `tableau/dashboard_links.md`.
-- [x] Export the final report and presentation as PDFs into `reports/`.
-
 ## Quick Start
 
 If you are working locally:
